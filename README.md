@@ -1,7 +1,7 @@
-### <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=4000&pause=1000&color=F0A41C&vCenter=true&width=550&height=70&lines=Yo!+My+name+is+Shahaf+Ashash;I+am+a+software+engineer+at+Intel" alt="Typing SVG" /></a>
-
 <div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=4000&pause=1000&color=F0A41C&vCenter=true&width=550&height=70&lines=Yo!+My+name+is+Shahaf+Ashash;I+am+a+software+engineer+at+Intel" alt="Typing SVG" />
+    </a>
     <a href="https://github.com/shahafashash" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
@@ -11,33 +11,18 @@
     <a href="https://instagram.com/shahafashash" target="_blank">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
+
+<br/>
+<div align="left">
+    <p>🎓Got a B.Sc. in computer science from the <a href="https://www.technion.ac.il/en/home-2/">Technion -  Israel Institute of Technology</a>
+    </p>
+    <p>🔭 I’m currently working on a <a href="https://github.com/shahafashash/dnd-vtt">D&amp;D VTT</a> application
+    </p>
+    <p>🌱 I’m currently learning about bug bounty and cybersecurity
+    </p>
+    <p>⚡ Fun fact: My body runs on coffee ☕</p>
 </div>
 </div>
-
-<!-- <div align="center">
-    <a href="https://github.com/shahafashash" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/shahafashash" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/shahafashash" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>
-</div> -->
-
-- 🎓Got a B.Sc. in computer science from the [Technion -  Israel Institute of Technology](https://www.technion.ac.il/en/home-2/)
-
-
-- 🔭 I’m currently working on a [D&D VTT](https://github.com/shahafashash/dnd-vtt) application
-
-
-- 🌱 I’m currently learning about bug bounty and cybersecurity
-
-
-- ⚡ Fun fact: My body runs on coffee ☕
-
-
 <br/>
 
 ## :headphones: Jam with me
