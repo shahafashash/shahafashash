@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/shahafashash/shahafashash/blob/main/p3.png" alt="MePop">
+    <img src="https://github.com/shahafashash/shahafashash/blob/main/images/p3.png" alt="MePop">
 </div>
 
 
