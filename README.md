@@ -2,6 +2,9 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=4000&pause=1000&color=F0A41C&vCenter=true&width=550&height=70&lines=Yo!+My+name+is+Shahaf+Ashash;I+am+a+software+engineer+at+Intel" alt="Typing SVG" />
     </a>
+</div>
+
+<div align="center">
     <a href="https://github.com/shahafashash" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
@@ -11,6 +14,7 @@
     <a href="https://instagram.com/shahafashash" target="_blank">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
+</div>
 
 <br/>
 <div align="left">
@@ -21,7 +25,6 @@
     <p>🌱 I’m currently learning about bug bounty and cybersecurity
     </p>
     <p>⚡ Fun fact: My body runs on coffee ☕</p>
-</div>
 </div>
 <br/>
 
