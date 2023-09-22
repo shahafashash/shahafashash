@@ -34,9 +34,21 @@
 <br/>
 
 ## My Skill Set
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg", title="GitHub", alt="GitHub" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg", title="FastAPI", alt="FastAPI" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg", title="PostgreSQL", alt="PostgreSQL" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", title="Python", alt="Python" width="40" height="40" />
+<div align="center">
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" height="50" />
+
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>
+
+
+
+
