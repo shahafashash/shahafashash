@@ -29,7 +29,7 @@
     </p>
     <p>🌱 I’m currently learning about bug bounty and cybersecurity
     </p>
-    <p>⚡ Fun fact: My body runs on coffee ☕</p>
+    <p>⚡ Fun fact: My body runs on caffeine ☕</p>
 </div>
 <br/>
 
