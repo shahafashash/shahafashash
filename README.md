@@ -1,6 +1,11 @@
 <div align="center">
+    <img src="https://github.com/shahafashash/shahafashash/blob/main/p3.png" alt="MePop">
+</div>
+
+
+<div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=4000&pause=1000&color=F0A41C&vCenter=true&width=550&height=70&lines=Yo!+My+name+is+Shahaf+Ashash;I+am+a+software+engineer+at+Intel" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=4000&pause=1000&color=F0A41C&vCenter=true&width=550&height=70&lines=Hi!+My+name+is+Shahaf+Ashash;I+am+a+software+engineer+at+Intel" alt="Typing SVG" />
     </a>
 </div>
 
@@ -31,7 +36,9 @@
 ## :headphones: Jam with me
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=shahafashash19&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffbb00&bar_color_cover=false" /></div>
+<div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=shahafashash19&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffbb00&bar_color_cover=false" />
+</div>
 
 <br/>
 
@@ -39,16 +46,16 @@
 <br/>
 
 <div align="center">
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>
 
 <br/>
