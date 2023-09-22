@@ -1,4 +1,5 @@
-### <div align="center">I'm Shahaf, a software engineer at [Intel](https://www.intel.com/content/www/us/en/homepage.html)</div>
+### <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=4000&pause=1000&color=F0A41C&vCenter=true&width=550&height=70&lines=Yo!+My+name+is+Shahaf+Ashash;I+am+a+software+engineer+at+Intel" alt="Typing SVG" /></a>
 
 <div align="center">
     <a href="https://github.com/shahafashash" target="_blank">
@@ -11,6 +12,19 @@
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
 </div>
+</div>
+
+<!-- <div align="center">
+    <a href="https://github.com/shahafashash" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/shahafashash" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://instagram.com/shahafashash" target="_blank">
+        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a>
+</div> -->
 
 - 🎓Got a B.Sc. in computer science from the [Technion -  Israel Institute of Technology](https://www.technion.ac.il/en/home-2/)
 
@@ -26,14 +40,14 @@
 
 <br/>
 
-## Jam with me
+## :headphones: Jam with me
 <br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=shahafashash19&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffbb00&bar_color_cover=false" /></div>
 
 <br/>
 
-## My Skill Set
+## :hammer_and_wrench: Some of the technologies I work with
 <br/>
 
 <div align="center">
