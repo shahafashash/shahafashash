@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://github.com/shahafashash/shahafashash/blob/main/images/p3.png" alt="MePop">
+    <img src="https://github.com/shahafashash/shahafashash/blob/main/images/p3.png" alt="MePop" height="200">
 </div>
 
 
-<div align="center">
+<div align="center" class="row">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=4000&pause=1000&color=F0A41C&vCenter=true&width=550&height=70&lines=Hi!+My+name+is+Shahaf+Ashash;I+am+a+software+engineer+at+Intel" alt="Typing SVG" />
     </a>
