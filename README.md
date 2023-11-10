@@ -52,6 +52,7 @@
     <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
     <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
     <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
+    <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
     <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
     <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" height="50" />
     <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
