@@ -25,7 +25,7 @@
 <div align="left">
     <p>🎓Got a B.Sc. in computer science from the <a href="https://www.technion.ac.il/en/home-2/">Technion -  Israel Institute of Technology</a>
     </p>
-    <p>🔭 I’m currently working on a <a href="https://github.com/shahafashash/dnd-vtt">D&amp;D VTT</a> application
+    <p>🔭 I’m currently working on a <a href="https://github.com/shahafashash/dnd-vtt">D&amp;D VTT</a> application and a <a href="https://github.com/shahafashash/coffee-patterns">VSCode extension</a> for design pattern snippets.
     </p>
     <p>🌱 I’m currently learning about bug bounty and cybersecurity
     </p>
