@@ -89,56 +89,48 @@
 
 ## 🛠️ Technologies & Tools
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <h3 style="margin: 0; width: 200px;">Languages</h3>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/cython/cython/blob/master/docs/_static/cython-logo-C.svg" alt="Cython" height="50" />
-    </div>
+**Languages**
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/cython/cython/blob/master/docs/_static/cython-logo-C.svg" alt="Cython" height="50" />
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <h3 style="margin: 0; width: 200px;">Frameworks & Libraries</h3>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
-    </div>
+**Frameworks & Libraries**
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <h3 style="margin: 0; width: 200px;">Databases</h3>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/shahafashash/shahafashash/blob/main/images/timescaledb-logo.svg" alt="TimescaleDB" height="50" />
-    </div>
+**Databases**
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/shahafashash/shahafashash/blob/main/images/logo-timescaledb.svg" alt="TimescaleDB" height="50" />
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <h3 style="margin: 0; width: 200px;">DevOps & Tools</h3>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" />
-    </div>
+**DevOps & Tools**
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" />
 </div>
 
 <br/>
