@@ -89,48 +89,56 @@
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cython/cython-original.svg" alt="Cython" height="50" />
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <h3 style="margin: 0; width: 200px;">Languages</h3>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/cython/cython/blob/master/docs/_static/cython-logo-C.svg" alt="Cython" height="50" />
+    </div>
 </div>
 
-### Frameworks & Libraries
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <h3 style="margin: 0; width: 200px;">Frameworks & Libraries</h3>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
+    </div>
 </div>
 
-### Databases
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/timescale/timescaledb/main/docs/timescaledb-logo.svg" alt="TimescaleDB" height="50" />
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <h3 style="margin: 0; width: 200px;">Databases</h3>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/shahafashash/shahafashash/blob/main/images/timescaledb-logo.svg" alt="TimescaleDB" height="50" />
+    </div>
 </div>
 
-### DevOps & Tools
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" />
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <h3 style="margin: 0; width: 200px;">DevOps & Tools</h3>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" />
+    </div>
 </div>
 
 <br/>
@@ -143,37 +151,16 @@
 
 <br/>
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-    <p>
-        💼 <strong>Open to:</strong> Tech Lead opportunities, Software Architecture consulting, Open Source collaborations<br/>
-        🎯 <strong>Interested in:</strong> Autonomous driving systems, Performance optimization, Design patterns<br/>
-        ☕ <strong>Always up for:</strong> Technical discussions over coffee!
-    </p>
-
-    <p>
-        <a href="https://linkedin.com/in/shahafashash">
-            <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        &nbsp;&nbsp;
-        <a href="mailto:shahafashash@gmail.com">
-            <img src="https://img.shields.io/badge/Drop%20me%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-    </p>
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=shahafashash&label=Profile%20views&color=F0A41C&style=flat" alt="Profile Views" />
     <br/>
     <i>Thanks for visiting! Feel free to connect with me 🚀</i>
+    <br/>
+    <i>☕ Always up for a technical discussions over coffee!</i>
 </div>
 
-<br/>
 
 
 
